@@ -2,17 +2,17 @@
 
 /**
  *
- * @link              https://github.com/frahim
+ * @link              https://github.com/raihanulkarimup/wp-table-of-contents
  * @since             1.0.0
  * @package           Anber_table_of_contents
 
  * @wordpress-plugin
  * Plugin Name:       Anber Table of Contents
- * Plugin URI:        https://github.com/frahim
+ * Plugin URI:        https://github.com/raihanulkarimup/wp-table-of-contents
  * Description:       A user-friendly and fully automated method for generating and displaying a table of contents based on the content of the page.
  * Version:           1.0.0
- * Author:            Md Yeasir Arafat
- * Author URI:        https://github.com/frahim/
+ * Author:            Raihanul Karim
+ * Author URI:        https://github.com/raihanulkarimup/wp-table-of-contents
  * License:           GPLv3
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain:       anber_table_of_contents
